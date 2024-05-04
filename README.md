@@ -9,9 +9,9 @@ Mini project ini berisikan fitur:
 - search data Karyawan dan Presensi
 
 Cara menjalankan aplikasi:
--Lakukan Registrasi/Pendaftaran Akun terlebih dahulu
--setelah login klik bagian foto di navbar maka akan bisa masuk ke menu dashboard
--di dalam menu dashboard bisa melakukan CRUD data Karyawan dan Presensi
+- Lakukan Registrasi/Pendaftaran Akun terlebih dahulu
+- setelah login klik bagian foto di navbar maka akan bisa masuk ke menu dashboard
+- di dalam menu dashboard bisa melakukan CRUD data Karyawan dan Presensi
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
